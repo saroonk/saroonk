@@ -1,6 +1,7 @@
 Hi there, I'm SAROON K 👋
 
 About Me
+
 I'm a Python full-stack developer intern with a strong focus on Django. I'm passionate about building efficient, scalable web applications that solve real-world problems. My work often involves crafting backend logic and integrating it seamlessly with the front end for a smooth user experience.
 
 I enjoy learning and exploring new technologies, and I'm constantly working on improving my skills in modern web development. Whether it's backend development, database design, or front-end integration, I'm always excited to tackle new challenges.
